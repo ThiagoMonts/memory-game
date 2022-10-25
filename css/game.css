@@ -47,7 +47,7 @@ header {
     height: 100%;
     position: absolute;
     background-size: cover;
-    background-position: center;
+    background-position: top center;
     border: 2px solid #39813a;
     border-radius: 5px;
     transition: all 400ms ease;
